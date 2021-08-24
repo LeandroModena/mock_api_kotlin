@@ -1,0 +1,15 @@
+### Create request GET
+### Inform the API for connection test
+### In {} inform JSON model
+GET http://localhost:8080/onboard/user/last-update
+Content-Type: application/json
+
+{}
+
+### Create request POST
+### Inform the API for connection test
+### In {} inform JSON model
+POST http://localhost:8080/
+Content-Type: application/json
+
+{}
